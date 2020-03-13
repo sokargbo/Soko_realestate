@@ -1,0 +1,5 @@
+#!/Users/msokargbo@diux.mil/Desktop/soko_project/venv/bin/python
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()
