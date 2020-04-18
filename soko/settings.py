@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'sokodb',
         'USER': 'postgres',
-        'PASSWORD': '247Postgres?',
+        'PASSWORD': 'abc123!',
         'HOST': 'localhost'
 
     }
